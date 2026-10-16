@@ -1,0 +1,6 @@
+interface:
+  display_name: "Skill Title"
+  short_description: "One short line for the Codex skill picker"
+# For a user-invoked skill, also add:
+# policy:
+#   allow_implicit_invocation: false
